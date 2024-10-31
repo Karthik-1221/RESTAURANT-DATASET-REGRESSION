@@ -1,7 +1,4 @@
-You
-readme for restaurant dataset
-Copilot
-A README file for a restaurant dataset typically includes information about the dataset, how to use it, and any other relevant details. Here's a basic template you can use for your README file:
+A Restaurant dataset typically includes information about the dataset, how to use it, and any other relevant details. Here's a basic template you can use for your README file:
 
 Restaurant Dataset
 Overview
